@@ -7,4 +7,5 @@ Warm-Up
 * Counting Valleys - http://hr.gs/3rtx
 
 Miscellaneous
-*Flipping Bits - http://hr.gs/bddefe
+* Flipping Bits - http://hr.gs/bddefe
+
