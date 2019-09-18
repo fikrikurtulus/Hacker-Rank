@@ -9,4 +9,4 @@ Warm-Up
 
 Miscellaneous
 * Flipping Bits - http://hr.gs/bddefe
-
+* Time Complexity: Primality - http://hr.gs/16xx
